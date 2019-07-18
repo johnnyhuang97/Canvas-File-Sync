@@ -1,6 +1,6 @@
 #!/usr/bin/env python3.7
 """
-CANVAS FILE SYNC v1.1
+CANVAS FILE SYNC
     Syncs all Canvas files from specified courses to a local folder,
     then uploads them to cloud storage using rclone.
 by Johnny Huang
